@@ -18,4 +18,4 @@ Tasks details:
 
 4. Autoencoders (Denoising Autoencoder, Semantic Hashing)
 
-   [nbviewer](https://nbviewer.jupyter.org/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab2_autoencoder.ipynb), [Google Colab](https://colab.research.google.com/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab4_autoencoder.ipynb)
+   [nbviewer](https://nbviewer.jupyter.org/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab4_autoencoder.ipynb), [Google Colab](https://colab.research.google.com/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab4_autoencoder.ipynb)
