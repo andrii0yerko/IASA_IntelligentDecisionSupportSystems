@@ -8,7 +8,7 @@ Tasks details:
 
    [nbviewer](https://nbviewer.jupyter.org/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab1_basic_python.ipynb)
 
-2. Multilayer Perceptron
+2. Multilayer Perceptron, Deep Learning Basics
 
    [nbviewer](https://nbviewer.jupyter.org/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab2_perceptron.ipynb), [Google Colab](https://colab.research.google.com/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab2_perceptron.ipynb)
 
@@ -19,3 +19,7 @@ Tasks details:
 4. Autoencoders (Denoising Autoencoder, Semantic Hashing)
 
    [nbviewer](https://nbviewer.jupyter.org/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab4_autoencoder.ipynb), [Google Colab](https://colab.research.google.com/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab4_autoencoder.ipynb)
+
+5. RNN For Timeseries Forecasting (SimpleRNN, LSTM, GRU)
+
+   [nbviewer](https://nbviewer.jupyter.org/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab5_rnn.ipynb), [Google Colab](https://colab.research.google.com/github/andrii0yerko/IASA_IntelligentDecisionSupportSystems/blob/main/lab5_rnn.ipynb)
